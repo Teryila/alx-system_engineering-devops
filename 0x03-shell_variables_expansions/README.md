@@ -1,0 +1,2 @@
+# Shell, init files, variables and expansions
+Project done during **Full Stack Software Engineering studies** at **ALX School**. It aims to learn about alias builtin, help builtin, local, global and reserved variables (PATH, HOME and PS1), special parameters `$?` and single an double quotes in **Shell**, the command on how and when to use "alias" and the propeper understanding of the usage and the knowledge of "backticks" and "$()", also  to have a good understanding of how to use global and local variables.
